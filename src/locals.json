@@ -1,0 +1,16 @@
+{
+    "ru": {
+        "mainTitle": "Микросервисная система распознавания лиц",
+        "name": "Имя",
+        "surname": "Фамилия",
+        "buttonChooseFile": "Выбрать файл",
+        "buttonSendFile": "Отправить файл"
+    },
+    "en": {
+        "mainTitle": "Microservice face recognition system",
+        "name": "Name",
+        "surname": "Surname",
+        "buttonChooseFile": "Select file",
+        "buttonSendFile": "Send file"
+    }
+}
