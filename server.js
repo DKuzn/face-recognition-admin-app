@@ -26,7 +26,7 @@ axios.defaults.maxContentLength = Infinity;
 
 const app = express();
 
-const PORT = process.env.PORT || 8004
+const PORT = process.env.PORT || 80
 
 app.use(serveStatic("./build"));
 app.use(bodyParser.json({limit: "50mb"}));
